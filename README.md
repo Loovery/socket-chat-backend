@@ -13,3 +13,8 @@
 От вас
 - Исходный код в репозитории (github/gitlab/bitbucket)
 - пояснение для инсталяции и сборки
+
+## Запуск
+npm i <br>
+npm i -g pm2 <br> 
+npm start 
